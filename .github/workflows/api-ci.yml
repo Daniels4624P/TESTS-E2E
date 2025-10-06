@@ -36,4 +36,3 @@ jobs:
           JWT_SECRET: 'secret'
           SMTP_EMAIL: 'taskmanager61@gmail.com'
           SMTP_PASSWORD: 'nubjghwqwvyltayp'
-
