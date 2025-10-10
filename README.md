@@ -32,3 +32,9 @@ psql -h localhost -d my_store -U nico
 SELECT * FROM users;
 DELETE FROM users WHERE id=<id>;
 ```
+
+# Perfect
+
+```sh
+npm run start
+```
